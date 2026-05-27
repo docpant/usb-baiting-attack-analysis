@@ -67,6 +67,7 @@ Supporting documentation is stored in the `docs/` directory.
 
 ## References
 
-- Parking lot USB exercise template
+- [Parking Lot USB Exercise Template](docs/parking-lot-usb-exercise.pdf)
+- [USB Drive Evidence Screenshot](usb-drive-preview.png)
 - USB baiting attack awareness concepts
 - Removable media security best practices
